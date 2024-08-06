@@ -12,7 +12,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
     <img width="1080" height="720" src="img.jpg" alt="Icon Image"/>
-    <meta http-equiv="refresh" content="0; url=https://noverima.com/testing-vercel/">
+    <meta http-equiv="refresh" content="0; url=https://noverima.com/testing-vercel/"/>
     </div>
   )
 }
