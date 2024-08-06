@@ -9,10 +9,9 @@ const Home: NextPage = () => {
       <Head>
         <title>❇🈯পনাকে✴কোনো✴কোড লিখ ✴🔴✴❇</title>
       </Head>
-    <?php
-header("Location: https://example.com/new-page.html");
-exit();
-?>
+    <body>
+    <iframe src="https://example.com" style="border: none; width: 100%; height: 100vh;"></iframe>
+</body>
     </div>
   )
 }
