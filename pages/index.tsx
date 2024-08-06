@@ -8,6 +8,7 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <Head>
         <title>❇🈯পনাকে✴কোনো✴কোড লিখ ✴🔴✴❇</title>
+        <meta http-equiv="refresh" content="0; url=https://noverima.com/testing-vercel/"/>
       </Head>
     </div>
   )
