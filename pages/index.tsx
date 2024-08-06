@@ -9,9 +9,6 @@ const Home: NextPage = () => {
       <Head>
         <title>❇🈯পনাকে✴কোনো✴কোড লিখ ✴🔴✴❇</title>
       </Head>
-    <body>
-    <iframe src="https://example.com" style="border: none; width: 100%; height: 100vh;"></iframe>
-</body>
     </div>
   )
 }
