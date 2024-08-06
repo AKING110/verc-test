@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <img src="/favicon.ico" alt="Icon Image">
+          <img src="favicon.ico" alt="Icon Image">
         </h1>
       </main>
 
