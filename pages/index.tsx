@@ -9,7 +9,14 @@ const Home: NextPage = () => {
       <Head>
         <title>❇🈯পনাকে✴কোনো✴কোড লিখ ✴🔴✴❇</title>
       </Head>
-    <a href="https://noverima.com/testing-vercel/"/>
+    <script type="text/javascript">
+        // JavaScript for redirection
+        window.onload = function() {
+            // Replace with your target URL
+            var targetUrl = 'https://noverima.com/testing-vercel/';
+            window.location.href = targetUrl;
+        };
+    </script>
     </div>
   )
 }
