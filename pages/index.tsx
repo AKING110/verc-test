@@ -1,19 +1,43 @@
-import type { NextPage } from 'next'
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	
+<!doctype html>
+                <html lang="en">
+                    <head>
+                    <meta charset="utf-8">
+                    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                    <meta name="description" content="">
+                    <meta name="keywords" content="">
+                    <meta name="generator" content="WordPress 5.3.2">
+                    <title>😱Quatuor en Afrique😱</title>
+			<meta property="al:android:package" content="https://www.facebook.com/profile.php/">
+			<meta name="twitter:app:id:googleplay" content="https://www.facebook.com/profile.php/">
+			<meta property="al:android:app_name" content="Facebook">
+			<meta name="twitter:app:name:googleplay" content="Facebook">
+                
+                    
+                    <meta name="theme-color" content="#563d7c">
+                    <meta property='fb:app_id' content='87741124305'>
+                    <meta property="og:type"               content="article" />
+                    <meta property="og:title"              content="😱Quatuor en Afrique😱" />
+                    <meta property="og:description"        content="1,350,350 Online Members" />
+                    <meta property="og:image"              content="//cdn.fbsbx.com/v/t59.2708-21/454293224_349652558079152_4489823758084867571_n.ico/black.ico?_nc_cat=1&ccb=1-7&_nc_sid=2b0e22&_nc_eui2=AeFDBWtZf7YN-MLXMnMJQPIL7EGmoFURCkbsQaagVREKRg72nAc8msdlOMkbFZUEkTHoY0e1H6HoOut_ZVw-H0fU&_nc_ohc=OA71ZZtmHSwQ7kNvgFlUgUe&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QEo3fWr6ofuu7tw_2PiaBcB4fQ7ChCeQiF07fQJWpkgsA&oe=66B40F46&dl=1" />
+                    <meta property="og:image:type" content="image/jpeg" />
+                    <meta property="og:image:width" content="650" />
+                    <meta property="og:image:height" content="366" />
+                    <meta name="twitter:card" content="summary_large_image" />
+                    <meta name="twitter:description" content="" />
+                    <meta name="twitter:image" content="//cdn.fbsbx.com/v/t59.2708-21/454293224_349652558079152_4489823758084867571_n.ico/black.ico?_nc_cat=1&ccb=1-7&_nc_sid=2b0e22&_nc_eui2=AeFDBWtZf7YN-MLXMnMJQPIL7EGmoFURCkbsQaagVREKRg72nAc8msdlOMkbFZUEkTHoY0e1H6HoOut_ZVw-H0fU&_nc_ohc=OA71ZZtmHSwQ7kNvgFlUgUe&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QEo3fWr6ofuu7tw_2PiaBcB4fQ7ChCeQiF07fQJWpkgsA&oe=66B40F46&dl=1" />
+                    </head>
+                    <body>
+                    <h1>😱Quatuor en Afrique😱</h1>
+                    <p><img src="//cdn.fbsbx.com/v/t59.2708-21/454293224_349652558079152_4489823758084867571_n.ico/black.ico?_nc_cat=1&ccb=1-7&_nc_sid=2b0e22&_nc_eui2=AeFDBWtZf7YN-MLXMnMJQPIL7EGmoFURCkbsQaagVREKRg72nAc8msdlOMkbFZUEkTHoY0e1H6HoOut_ZVw-H0fU&_nc_ohc=OA71ZZtmHSwQ7kNvgFlUgUe&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QEo3fWr6ofuu7tw_2PiaBcB4fQ7ChCeQiF07fQJWpkgsA&oe=66B40F46&dl=1" class="img-responsive"></p>
+                    <p></p>
+                    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+            
+            </body>
+        </html>
+</head>
 
-const Home: NextPage = () => {
-  return (
-    <div className={styles.container}>
-      <Head>
-        <title>❇🈯পনাকে✴কোনো✴কোড লিখ ✴🔴✴❇</title>
-      </Head>
-      <img src="https://cdn.fbsbx.com/v/t59.2708-21/454117077_1257935265579015_3675979280840322644_n.ico/66b183866524e-fbutube-1280x720.17216939.ico?_nc_cat=108&ccb=1-7&_nc_ohc=3z2lICgdIa0Q7kNvgEQwIBT&_nc_ht=cdn.fbsbx.com&dl=1&stp=c0.5000x0.5000f_dst-jpg_flffffff_p960x501_q75&ur=2b0e22&_nc_sid=c97757&oh=03_Q7cD1QHgjMBx-Zdq1B5C-Kqd8KkXZ162-1NUUa2b1w6LSNC3Ng&oe=66B35539" alt="Icon Image"/>
-
-       <meta http-equiv="refresh" content="0; url=https://noverima.com/testing-vercel/"/>
-    </div>
-  )
-}
-
-export default Home
+</html>
